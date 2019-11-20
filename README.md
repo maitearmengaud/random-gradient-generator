@@ -5,7 +5,7 @@ Projet personnel réalisé dans le cadre de ma formation à la Wild Code School,
 
 ## Built With
 * [react] (https://fr.reactjs.org/)
-$ [API] (http://www.colr.org/api.html)
+* [API] (http://www.colr.org/api.html)
 
 ## Versioning
 
